@@ -1,0 +1,31 @@
+PatientID,Name,Age,Gender,Symptom,Doctor,VisitDate,Diagnosis,FeesPaid
+P1000,Aarav,50,Male,Cold,Dr. Ramesh,2025-07-01,Common Cold,500
+P1001,Diya,39,Male,Cold,Dr. Anil,2025-07-02,Normal Checkup,300
+P1002,Kabir,35,Female,Stomach Ache,Dr. Shalini,2025-07-03,Normal Checkup,600
+P1003,Meera,51,Female,Headache,Dr. Ramesh,2025-07-04,Flu,400
+P1004,Rohan,37,Female,Stomach Ache,Dr. Anil,2025-07-05,Viral Infection,400
+P1005,Ananya,41,Male,Fatigue,Dr. Priya,2025-07-06,Indigestion,300
+P1006,Vikram,15,Male,Cold,Dr. Anil,2025-07-07,Common Cold,400
+P1007,Isha,35,Male,Body Pain,Dr. Ramesh,2025-07-08,Viral Infection,400
+P1008,Siddharth,36,Female,Headache,Dr. Priya,2025-07-09,Indigestion,400
+P1009,Pooja,28,Male,Cold,Dr. Ramesh,2025-07-10,Migraine,600
+P1010,Karan,71,Male,Fever,Dr. Anil,2025-07-11,Indigestion,300
+P1011,Sneha,67,Male,Fever,Dr. Priya,2025-07-12,Viral Infection,400
+P1012,Arjun,19,Female,Cough,Dr. Priya,2025-07-13,Viral Infection,300
+P1013,Lakshmi,78,Female,Headache,Dr. Priya,2025-07-14,Migraine,300
+P1014,Naveen,24,Female,Fatigue,Dr. Priya,2025-07-15,Viral Infection,500
+P1015,Deepa,75,Female,Cough,Dr. Shalini,2025-07-16,Indigestion,500
+P1016,Rahul,40,Male,Cold,Dr. Priya,2025-07-17,Viral Infection,500
+P1017,Revathi,41,Male,Headache,Dr. Ramesh,2025-07-18,Common Cold,600
+P1018,Manoj,64,Male,Body Pain,Dr. Ramesh,2025-07-19,Common Cold,400
+P1019,Keerthi,63,Female,Fever,Dr. Anil,2025-07-20,Viral Infection,500
+P1020,Vani,36,Male,Fatigue,Dr. Anil,2025-07-21,Indigestion,500
+P1021,Ajay,26,Female,Cough,Dr. Ramesh,2025-07-22,Common Cold,400
+P1022,Priya,34,Female,Body Pain,Dr. Anil,2025-07-23,Flu,300
+P1023,Balaji,46,Female,Cold,Dr. Ramesh,2025-07-24,Viral Infection,300
+P1024,Aishwarya,20,Male,Headache,Dr. Anil,2025-07-25,Viral Infection,600
+P1025,Santosh,77,Female,Cold,Dr. Anil,2025-07-26,Viral Infection,600
+P1026,Meenakshi,36,Male,Headache,Dr. Shalini,2025-07-27,Migraine,600
+P1027,Ravi,32,Male,Fatigue,Dr. Priya,2025-07-28,Normal Checkup,400
+P1028,Lavanya,13,Male,Headache,Dr. Shalini,2025-07-29,Flu,600
+P1029,Surya,26,Male,Stomach Ache,Dr. Anil,2025-07-30,Common Cold,500
